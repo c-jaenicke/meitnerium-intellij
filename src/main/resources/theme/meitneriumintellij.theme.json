@@ -138,12 +138,12 @@
       "underlineHeight": 2
     },
     "FileColor": {
-      "Blue": "#3f4e80",
-      "Green": "#4d723a",
-      "Orange": "#814f4f",
-      "Yellow": "#80743c",
-      "Rose": "#367c67",
-      "Violet": "#6e397c"
+      "Blue": "#212944",
+      "Green": "#2d4222",
+      "Orange": "#482c2c",
+      "Yellow": "#443e20",
+      "Rose": "#193b31",
+      "Violet": "#391e41"
     },
     "Label": {
       "errorForeground": "color1"

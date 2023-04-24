@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73e9a1db-e3ee-4da1-bfd9-2004c593bd79" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/theme/meitneriumintellij.theme.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/theme/meitneriumintellij.theme.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,13 +67,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/chrisj/GitHub/meitnerium-intellij",
+    "last_opened_file_path": "/home/chrisj/meitnerium-intellij-1.0-SNAPSHOT.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -99,7 +99,7 @@
       <workItem from="1682342601719" duration="260000" />
       <workItem from="1682342938511" duration="357000" />
       <workItem from="1682343300480" duration="79000" />
-      <workItem from="1682343386800" duration="339000" />
+      <workItem from="1682343386800" duration="488000" />
     </task>
     <servers />
   </component>
