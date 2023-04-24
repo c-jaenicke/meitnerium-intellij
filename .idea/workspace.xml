@@ -6,15 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73e9a1db-e3ee-4da1-bfd9-2004c593bd79" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/meitnerium-intellij.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/resources/META-INF/plugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/resources/META-INF/pluginIcon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/meitnerium-intellij/resources/theme/meitneriumintellij.theme.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,13 +66,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/chrisj/GitHub/meitnerium-intellij",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -89,21 +81,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources/META-INF" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="meitnerium-intellij" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="meitnerium-intellij" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -120,7 +97,9 @@
       <workItem from="1682342055945" duration="155000" />
       <workItem from="1682342216136" duration="380000" />
       <workItem from="1682342601719" duration="260000" />
-      <workItem from="1682342938511" duration="10000" />
+      <workItem from="1682342938511" duration="357000" />
+      <workItem from="1682343300480" duration="79000" />
+      <workItem from="1682343386800" duration="339000" />
     </task>
     <servers />
   </component>
