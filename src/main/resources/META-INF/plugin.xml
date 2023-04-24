@@ -1,0 +1,20 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+    <id>meitnerium-intellij.meitnerium-intellij</id>
+    <name>Meitnerium Theme</name>
+    <version>1.0</version>
+    <vendor url="https://github.com/c-jaenicke">c-jaenicke</vendor>
+    <description><![CDATA[
+    A modified version of the Dracula theme, using my colors, based on my Meitnerium theme.
+    <br>
+    <b>ONLY TESTED ON THE NEW UI!</b>
+    <br>
+    <a href="https://github.com/c-jaenicke/meitnerium-theme">Meitnerium theme main repository (github.com)</a>
+    <br>
+    <a href="https://github.com/c-jaenicke/meitnerium-intellij">Meitnerium theme intellij repository (github.com)</a>
+  ]]></description>
+    <depends>com.intellij.modules.platform</depends>
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="meitnerium-intellij.meitnerium-intellij" path="/theme/meitneriumintellij.theme.json"/>
+    </extensions>
+</idea-plugin>
