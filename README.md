@@ -32,3 +32,4 @@ To install the theme follow these steps:
 ## TODO
 
 Currently, there is no editor scheme, only a theme for the UI itself.
+C
